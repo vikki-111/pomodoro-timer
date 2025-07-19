@@ -24,6 +24,7 @@ python pomodoro_updated.py
 ## Extra Libraries
 
 Just run the command in your terminal:
+ - Open the file dir of requirements.txt in CMD/PS and run
 ```bash
 pip install -r requirements.txt
 ```
