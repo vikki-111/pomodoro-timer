@@ -1,0 +1,4 @@
+customtkinter
+CTkMessagebox
+plyer
+pygame
